@@ -1,0 +1,17 @@
+/*
+Question are in this format:
+
+QUESTION\n\ANSWER
+
+Answer can be a value, empty 
+or a star (*) which can be any value
+*/
+What is 1 + 1\n\2
+Please leave empty\n\
+What color is a red car\n\red
+How old is a 20 year old man\n\20
+Are you sleeping now?\n\no
+Are you the smartest person on earth?\n\*
+Who is the best person on earth?\n\*
+what is one plus three\n\four
+Enter the word manager\n\manager
